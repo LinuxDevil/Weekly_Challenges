@@ -1,7 +1,7 @@
 
 # _Challenges
 ### This repository contains weekly challenges
-In this challenge you can code in whatever language you love, the only rule is to use minimum of one of one thing that you don't know.
+This is a weekly challenge, where participants need to code in whatever language they love, the only rule is to use minimum of <b>one</b> of one thing that you don't know.
 
 ### Rules
 1. Use at least one thing that you don't know.
