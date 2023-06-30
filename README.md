@@ -19,11 +19,8 @@ print("Coding is the closest thing to a super power, be proud!");
 
 ---
 
-### Weeks
+### Challenges
 
-| Weeks           | Participants                                            |
-| --------------- | ------------------------------------------------------- |
-| Week 1 - 6-2023 | Commuting...                                            |
-| --              | --                                                      |
-| osamaths        | https://github.com/WeeklyChallenges/hoc-react/tree/main |
-|                 |                                                         |
+| Person   | Topic |                                                    Repo |
+| :------- | :---: | ------------------------------------------------------: |
+| osamaths | HOCs  | https://github.com/WeeklyChallenges/hoc-react/tree/main |
