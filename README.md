@@ -21,6 +21,6 @@ print("Coding is the closest thing to a super power, be proud!");
 
 ### Challenges
 
-| Person   | Topic |                                                    Repo |
-| :------- | :---: | ------------------------------------------------------: |
+| Person   | Topic | Repo                                                    |
+| :------- | :---: | :------------------------------------------------------ |
 | osamaths | HOCs  | https://github.com/WeeklyChallenges/hoc-react/tree/main |
